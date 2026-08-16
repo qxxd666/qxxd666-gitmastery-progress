@@ -392,5 +392,15 @@
       "Great job deleting the VWX branch!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1786895363.972584,
+    "completed_at": 1786895370.683279,
+    "comments": [
+      "Local branch 'STU' was not renamed to 'S-to-Z'!",
+      "If needed, reset the repository using \"gitmastery progress reset\" and start again."
+    ],
+    "status": "Incomplete"
   }
 ]
